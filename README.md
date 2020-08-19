@@ -1,0 +1,2 @@
+# WuyanBot
+A Discord Bot
